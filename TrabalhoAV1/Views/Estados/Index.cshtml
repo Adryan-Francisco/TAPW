@@ -1,0 +1,40 @@
+﻿@model IEnumerable<TrabalhoAV1.Models.Estado>
+
+@{
+    ViewData["Title"] = "Índice de Estados";
+}
+
+<div class="container mt-4">
+    <h1 class="mb-4">Lista de Estados</h1>
+
+    <!-- Link para criar um novo estado -->
+    <p>
+        <a asp-action="Create" class="btn btn-primary">Criar Novo Estado</a>
+    </p>
+
+    <!-- Tabela de Estados -->
+    <table class="table table-bordered table-striped">
+        <thead class="thead-dark">
+            <tr>
+                <th>@Html.DisplayNameFor(model => model.Nome)</th>
+                <th>@Html.DisplayNameFor(model => model.Sigla)</th>
+                <th>Ações</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.Nome)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Sigla)</td>
+                    <td>
+                        <!-- Ações de Editar, Detalhes e Excluir -->
+                        <a asp-action="Edit" asp-route-id="@item.EstadoId" class="btn btn-warning btn-sm">Editar</a> |
+                        <a asp-action="Details" asp-route-id="@item.EstadoId" class="btn btn-info btn-sm">Detalhes</a> |
+                        <a asp-action="Delete" asp-route-id="@item.EstadoId" class="btn btn-danger btn-sm">Excluir</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

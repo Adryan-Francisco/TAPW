@@ -1,0 +1,613 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|c:\\users\\aluno\\desktop\\trabalhoav1\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|solutionrelative:views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|c:\\users\\aluno\\desktop\\trabalhoav1\\views\\cidades\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|solutionrelative:views\\cidades\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|c:\\users\\aluno\\desktop\\trabalhoav1\\views\\estados\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|solutionrelative:views\\estados\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|c:\\users\\aluno\\desktop\\trabalhoav1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|c:\\users\\aluno\\desktop\\trabalhoav1\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|solutionrelative:views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|c:\\users\\aluno\\desktop\\trabalhoav1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|c:\\users\\aluno\\desktop\\trabalhoav1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|c:\\users\\aluno\\desktop\\trabalhoav1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|c:\\users\\aluno\\desktop\\trabalhoav1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|c:\\users\\aluno\\desktop\\trabalhoav1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|c:\\users\\aluno\\desktop\\trabalhoav1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|c:\\users\\aluno\\desktop\\trabalhoav1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|c:\\users\\aluno\\desktop\\trabalhoav1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|c:\\users\\aluno\\desktop\\trabalhoav1\\views\\estados\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|solutionrelative:views\\estados\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|c:\\users\\aluno\\desktop\\trabalhoav1\\views\\estados\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|solutionrelative:views\\estados\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|c:\\users\\aluno\\desktop\\trabalhoav1\\views\\clientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|solutionrelative:views\\clientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|c:\\users\\aluno\\desktop\\trabalhoav1\\views\\estados\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|solutionrelative:views\\estados\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|c:\\users\\aluno\\desktop\\trabalhoav1\\views\\estados\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|solutionrelative:views\\estados\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|c:\\users\\aluno\\desktop\\trabalhoav1\\views\\clientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|solutionrelative:views\\clientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|c:\\users\\aluno\\desktop\\trabalhoav1\\views\\clientes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|solutionrelative:views\\clientes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|c:\\users\\aluno\\desktop\\trabalhoav1\\views\\cidades\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|solutionrelative:views\\cidades\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|c:\\users\\aluno\\desktop\\trabalhoav1\\views\\cidades\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|solutionrelative:views\\cidades\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|c:\\users\\aluno\\desktop\\trabalhoav1\\controllers\\estadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|solutionrelative:controllers\\estadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|c:\\users\\aluno\\desktop\\trabalhoav1\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|solutionrelative:controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|c:\\users\\aluno\\desktop\\trabalhoav1\\views\\cidades\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|solutionrelative:views\\cidades\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|c:\\users\\aluno\\desktop\\trabalhoav1\\views\\cidades\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|solutionrelative:views\\cidades\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|c:\\users\\aluno\\desktop\\trabalhoav1\\controllers\\cidadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|solutionrelative:controllers\\cidadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|c:\\users\\aluno\\desktop\\trabalhoav1\\migrations\\20250520163217_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|solutionrelative:migrations\\20250520163217_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|c:\\users\\aluno\\desktop\\trabalhoav1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|c:\\users\\aluno\\desktop\\trabalhoav1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|c:\\users\\aluno\\desktop\\trabalhoav1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|c:\\users\\aluno\\desktop\\trabalhoav1\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|c:\\users\\aluno\\desktop\\trabalhoav1\\models\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|solutionrelative:models\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|c:\\users\\aluno\\desktop\\trabalhoav1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|c:\\users\\aluno\\desktop\\trabalhoav1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|c:\\users\\aluno\\desktop\\trabalhoav1\\models\\cidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|solutionrelative:models\\cidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|c:\\users\\aluno\\desktop\\trabalhoav1\\trabalhoav1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0A27741D-198F-459C-9631-54C09D3A7B9A}|TrabalhoAV1.csproj|solutionrelative:trabalhoav1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Views\\Cidades\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cidades\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Views\\Cidades\\Index.cshtml",
+              "RelativeToolTip": "Views\\Cidades\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAgwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T16:41:20.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Views\\Estados\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Estados\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Views\\Estados\\Index.cshtml",
+              "RelativeToolTip": "Views\\Estados\\Index.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T16:48:49.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwCcAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T16:50:36.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Views\\Clientes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Clientes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Views\\Clientes\\Index.cshtml",
+              "RelativeToolTip": "Views\\Clientes\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAgwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T16:46:52.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T16:53:11.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Views\\Clientes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Clientes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Views\\Clientes\\Create.cshtml",
+              "RelativeToolTip": "Views\\Clientes\\Create.cshtml",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAD8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T16:45:19.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T16:51:00.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T16:53:09.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T16:23:45.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-20T16:29:20.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T16:50:32.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T16:23:48.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-20T16:50:44.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Views\\Estados\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Estados\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Views\\Estados\\Create.cshtml",
+              "RelativeToolTip": "Views\\Estados\\Create.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T16:47:26.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Views\\Estados\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Estados\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Views\\Estados\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Estados\\Delete.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T16:47:44.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Views\\Clientes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Clientes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Views\\Clientes\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Clientes\\Edit.cshtml",
+              "ViewState": "AgIAADUAAAAAAAAAAAAmwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T16:46:33.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Views\\Estados\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Estados\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Views\\Estados\\Details.cshtml",
+              "RelativeToolTip": "Views\\Estados\\Details.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T16:48:05.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Views\\Estados\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Estados\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Views\\Estados\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Estados\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T16:48:25.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Views\\Clientes\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Clientes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Views\\Clientes\\Details.cshtml",
+              "RelativeToolTip": "Views\\Clientes\\Details.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T16:46:17.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Views\\Clientes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Clientes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Views\\Clientes\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Clientes\\Delete.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T16:46:01.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Views\\Cidades\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cidades\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Views\\Cidades\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Cidades\\Delete.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T16:40:03.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Views\\Cidades\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cidades\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Views\\Cidades\\Create.cshtml",
+              "RelativeToolTip": "Views\\Cidades\\Create.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T16:39:30.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EstadosController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Controllers\\EstadosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EstadosController.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Controllers\\EstadosController.cs",
+              "RelativeToolTip": "Controllers\\EstadosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T16:35:52.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T16:35:29.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Views\\Cidades\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cidades\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Views\\Cidades\\Details.cshtml",
+              "RelativeToolTip": "Views\\Cidades\\Details.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T16:40:28.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Views\\Cidades\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cidades\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Views\\Cidades\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Cidades\\Edit.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T16:40:52.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CidadesController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Controllers\\CidadesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CidadesController.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Controllers\\CidadesController.cs",
+              "RelativeToolTip": "Controllers\\CidadesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T16:34:54.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20250520163217_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Migrations\\20250520163217_Inicial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250520163217_Inicial.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Migrations\\20250520163217_Inicial.cs",
+              "RelativeToolTip": "Migrations\\20250520163217_Inicial.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T16:32:17.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T16:17:40.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:45:56.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:54:47.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Models\\Cliente.cs",
+              "RelativeToolTip": "Models\\Cliente.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:56:51.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Estado.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Models\\Estado.cs",
+              "RelativeDocumentMoniker": "Models\\Estado.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Models\\Estado.cs",
+              "RelativeToolTip": "Models\\Estado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:57:01.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T16:15:14.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-20T16:16:37.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Cidade.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Models\\Cidade.cs",
+              "RelativeDocumentMoniker": "Models\\Cidade.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\Models\\Cidade.cs",
+              "RelativeToolTip": "Models\\Cidade.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:56:36.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TrabalhoAV1.csproj",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\TrabalhoAV1.csproj",
+              "RelativeDocumentMoniker": "TrabalhoAV1.csproj",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\TrabalhoAV1\\TrabalhoAV1.csproj",
+              "RelativeToolTip": "TrabalhoAV1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-20T15:54:14.864Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

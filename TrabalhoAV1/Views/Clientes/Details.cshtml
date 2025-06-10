@@ -1,0 +1,41 @@
+﻿@model TrabalhoAV1.Models.Cliente
+
+@{
+    ViewData["Title"] = "Detalhes do Cliente";
+}
+
+<div class="container mt-4">
+    <h2 class="mb-4">Detalhes do Cliente</h2>
+
+    <div class="card shadow-sm">
+        <div class="card-body">
+            <h5 class="mb-3">Informações do Cliente</h5>
+            <hr />
+            <dl class="row">
+                <dt class="col-sm-3">Nome</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.Nome)</dd>
+
+                <dt class="col-sm-3">Sexo</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.Sexo)</dd>
+
+                <dt class="col-sm-3">Idade</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.Idade)</dd>
+
+                <dt class="col-sm-3">Data de Cadastro</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.DateOnly)</dd>
+
+                <dt class="col-sm-3">Cidade</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.Cidade.Nome)</dd>
+            </dl>
+        </div>
+    </div>
+
+    <div class="mt-4 d-flex justify-content-between">
+        <a asp-action="Edit" asp-route-id="@Model?.ClienteId" class="btn btn-warning">
+            <i class="bi bi-pencil"></i> Editar
+        </a>
+        <a asp-action="Index" class="btn btn-outline-secondary">
+            <i class="bi bi-arrow-left"></i> Voltar para a Lista
+        </a>
+    </div>
+</div>

@@ -1,0 +1,49 @@
+﻿@model TrabalhoAV1.Models.Cliente
+
+@{
+    ViewData["Title"] = "Excluir Cliente";
+}
+
+<div class="container mt-4">
+    <h2 class="mb-4">Excluir Cliente</h2>
+
+    <div class="card shadow-sm">
+        <div class="card-body">
+            <h4 class="mb-3">Tem certeza de que deseja excluir este cliente?</h4>
+
+            <div class="mb-4">
+                <h5>Detalhes do Cliente</h5>
+                <hr />
+                <dl class="row">
+                    <dt class="col-sm-3">Nome</dt>
+                    <dd class="col-sm-9">@Html.DisplayFor(model => model.Nome)</dd>
+
+                    <dt class="col-sm-3">Sexo</dt>
+                    <dd class="col-sm-9">@Html.DisplayFor(model => model.Sexo)</dd>
+
+                    <dt class="col-sm-3">Idade</dt>
+                    <dd class="col-sm-9">@Html.DisplayFor(model => model.Idade)</dd>
+
+                    <dt class="col-sm-3">Data de Cadastro</dt>
+                    <dd class="col-sm-9">@Html.DisplayFor(model => model.DateOnly)</dd>
+
+                    <dt class="col-sm-3">Cidade</dt>
+                    <dd class="col-sm-9">@Html.DisplayFor(model => model.Cidade.Nome)</dd>
+                </dl>
+            </div>
+
+            <div class="d-flex justify-content-between">
+                <form asp-action="Delete">
+                    <input type="hidden" asp-for="ClienteId" />
+                    <button type="submit" class="btn btn-danger">
+                        <i class="bi bi-trash"></i> Excluir
+                    </button>
+                </form>
+
+                <a asp-action="Index" class="btn btn-outline-secondary">
+                    <i class="bi bi-arrow-left"></i> Voltar para a lista
+                </a>
+            </div>
+        </div>
+    </div>
+</div>

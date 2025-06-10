@@ -1,0 +1,43 @@
+﻿@model TrabalhoAV1.Models.Estado
+
+@{
+    ViewData["Title"] = "Excluir Estado";
+}
+
+<div class="container mt-4">
+    <h2 class="mb-4">Excluir Estado</h2>
+
+    <h3>Tem certeza que deseja excluir este Estado?</h3>
+
+    <div class="card">
+        <div class="card-header">
+            <h4>Detalhes do Estado</h4>
+        </div>
+        <div class="card-body">
+            <dl class="row">
+                <dt class="col-sm-3">
+                    @Html.DisplayNameFor(model => model.Nome)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.Nome)
+                </dd>
+                <dt class="col-sm-3">
+                    @Html.DisplayNameFor(model => model.Sigla)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.Sigla)
+                </dd>
+            </dl>
+        </div>
+    </div>
+
+    <div class="mt-4">
+        <form asp-action="Delete">
+            <input type="hidden" asp-for="EstadoId" />
+            <div class="d-flex justify-content-between">
+                <button type="submit" class="btn btn-danger">Excluir</button>
+                <a asp-action="Index" class="btn btn-secondary">Voltar para a Lista</a>
+            </div>
+        </form>
+    </div>
+</div>

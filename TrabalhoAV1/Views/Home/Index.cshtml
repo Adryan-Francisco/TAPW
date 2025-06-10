@@ -1,0 +1,42 @@
+﻿@{
+    ViewData["Title"] = "Página Inicial";
+}
+
+<div class="container mt-5">
+    <div class="text-center">
+    </div>
+
+    <hr class="my-5" />
+
+    <div class="row text-center">
+        <div class="col-md-4 mb-4">
+            <div class="card shadow-sm h-100">
+                <div class="card-body">
+                    <h5 class="card-title"><i class="bi bi-building"></i> Cidades</h5>
+                    <p class="card-text">Gerencie o cadastro de cidades disponíveis.</p>
+                    <a asp-controller="Cidades" asp-action="Index" class="btn btn-primary">Ver Cidades</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4 mb-4">
+            <div class="card shadow-sm h-100">
+                <div class="card-body">
+                    <h5 class="card-title"><i class="bi bi-geo-alt"></i> Estados</h5>
+                    <p class="card-text">Acesse e edite os estados cadastrados.</p>
+                    <a asp-controller="Estados" asp-action="Index" class="btn btn-primary">Ver Estados</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4 mb-4">
+            <div class="card shadow-sm h-100">
+                <div class="card-body">
+                    <h5 class="card-title"><i class="bi bi-person-badge"></i> Clientes</h5>
+                    <p class="card-text">Visualize e edite informações dos clientes.</p>
+                    <a asp-controller="Clientes" asp-action="Index" class="btn btn-primary">Ver Clientes</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

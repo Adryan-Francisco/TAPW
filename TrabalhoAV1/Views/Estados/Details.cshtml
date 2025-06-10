@@ -1,0 +1,37 @@
+﻿@model TrabalhoAV1.Models.Estado
+
+@{
+    ViewData["Title"] = "Detalhes do Estado";
+}
+
+<div class="container mt-4">
+    <h2 class="mb-4">Detalhes do Estado</h2>
+
+    <div class="card">
+        <div class="card-header">
+            <h4>Informações do Estado</h4>
+        </div>
+        <div class="card-body">
+            <dl class="row">
+                <dt class="col-sm-3">
+                    @Html.DisplayNameFor(model => model.Nome)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.Nome)
+                </dd>
+
+                <dt class="col-sm-3">
+                    @Html.DisplayNameFor(model => model.Sigla)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.Sigla)
+                </dd>
+            </dl>
+        </div>
+    </div>
+
+    <div class="mt-4">
+        <a asp-action="Edit" asp-route-id="@Model?.EstadoId" class="btn btn-warning">Editar</a>
+        <a asp-action="Index" class="btn btn-secondary">Voltar para a Lista</a>
+    </div>
+</div>

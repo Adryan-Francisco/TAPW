@@ -1,0 +1,45 @@
+﻿@model TrabalhoAV1.Models.Cidade
+
+@{
+    ViewData["Title"] = "Excluir Cidade";
+}
+
+<div class="container mt-4">
+    <h2 class="text-danger mb-4">Excluir Cidade</h2>
+
+    <div class="alert alert-warning" role="alert">
+        <strong>Atenção:</strong> Você tem certeza que deseja excluir esta cidade?
+    </div>
+
+    <div class="card shadow-sm mb-4">
+        <div class="card-body">
+            <dl class="row mb-0">
+                <dt class="col-sm-3 fw-bold">
+                    @Html.DisplayNameFor(model => model.Nome)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.Nome)
+                </dd>
+
+                <dt class="col-sm-3 fw-bold">
+                    @Html.DisplayNameFor(model => model.Estado)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.Estado.Nome)
+                </dd>
+            </dl>
+        </div>
+    </div>
+
+    <form asp-action="Delete" method="post">
+        <input type="hidden" asp-for="CidadeId" />
+        <div class="d-flex justify-content-between">
+            <a asp-action="Index" class="btn btn-outline-secondary">
+                <i class="bi bi-arrow-left"></i> Cancelar
+            </a>
+            <button type="submit" class="btn btn-danger">
+                <i class="bi bi-trash"></i> Excluir
+            </button>
+        </div>
+    </form>
+</div>
